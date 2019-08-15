@@ -1,0 +1,1 @@
+This app is for calculating and trackings tips
